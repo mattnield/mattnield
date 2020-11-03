@@ -1,5 +1,7 @@
 ### Hi there 👋
+- 😷 Looking forward to the end of lockdown(s)
 - 🌱 I’m currently learning some JAMStack
+- 💬 Ask me about Kentico Kontent
 - 😄 Pronouns: He/Him/His
 <!--
 **mattnield/mattnield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
